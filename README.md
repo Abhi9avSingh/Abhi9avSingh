@@ -53,10 +53,6 @@ I focus on understanding concepts deeply and applying them through real projects
 
 ---
 
-## ⚡ Fun Fact
-
-I believe consistency beats talent when talent doesn’t work hard.
-
----
+ 
 
 ⭐ *Thanks for visiting my profile!*
