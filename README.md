@@ -30,7 +30,7 @@ I focus on understanding concepts deeply and applying them through real projects
 ## 📌 Featured Projects
 
 * 🎮 Rock Paper Scissors Game (React + Vite)
-* 💭 Weather App ( React + Api )
+* 💭 Weather App ( React + API )
  
 
 ---
