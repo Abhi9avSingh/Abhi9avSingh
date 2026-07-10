@@ -27,11 +27,43 @@ I focus on understanding concepts deeply and applying them through real projects
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects Overview 
 
-* 🎮 Rock Paper Scissors Game (React + Vite)
-* 💭 Weather App ( React + API )
- 
+I enjoy building full-stack web applications that solve practical problems while helping me learn modern development technologies. My projects focus on frontend development, backend APIs, cloud deployment, and integrating real-world data to create meaningful applications.
+
+☁️ Cloud-Based Weather Forecast Web Application
+
+A cloud-hosted weather application that provides real-time weather updates using the OpenWeather API. The project demonstrates cloud deployment concepts and API integration while delivering accurate weather information through a responsive web interface.
+
+Highlights
+
+🌦️ Real-time weather updates using OpenWeather API
+☁️ Cloud deployment on AWS (S3/EC2)
+📱 Responsive and user-friendly interface
+🔗 REST API integration for live weather data
+
+Tech Stack: HTML, CSS, JavaScript, OpenWeather API, AWS
+
+🌾 AI Crop Yield Prediction & Agricultural Productivity Forecasting System (YieldSense AI)
+
+An AI-powered agricultural platform designed to help farmers estimate crop yield using historical farming records, weather conditions, and soil data. The project includes a modern dashboard for agricultural analytics and a scalable Express.js backend that manages authentication, crop information, and prediction workflows.
+
+Highlights
+
+🤖 AI-powered crop yield prediction platform
+📊 Interactive dashboards for yield forecasting and analytics
+🔐 Secure authentication and RESTful APIs
+🌱 Crop data management and prediction workflow integration
+
+Tech Stack: React.js, Vite, Tailwind CSS, Node.js, Express.js
+
+## 💡 Currently Learning
+* Node.js & Express.js
+* React Ecosystem
+* REST API Development
+* Cloud Computing (AWS)
+* AI & Machine Learning Integration
+* Data Structures & Algorithms (C++)
 
 ---
 
