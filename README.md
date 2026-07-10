@@ -37,10 +37,10 @@ A cloud-hosted weather application that provides real-time weather updates using
 
 Highlights
 
-🌦️ Real-time weather updates using OpenWeather API
-☁️ Cloud deployment on AWS (S3/EC2)
-📱 Responsive and user-friendly interface
-🔗 REST API integration for live weather data
+* 🌦️ Real-time weather updates using OpenWeather API
+* ☁️ Cloud deployment on AWS (S3/EC2)
+* 📱 Responsive and user-friendly interface
+* 🔗 REST API integration for live weather data
 
 Tech Stack: HTML, CSS, JavaScript, OpenWeather API, AWS
 
@@ -50,10 +50,10 @@ An AI-powered agricultural platform designed to help farmers estimate crop yield
 
 Highlights
 
-🤖 AI-powered crop yield prediction platform
-📊 Interactive dashboards for yield forecasting and analytics
-🔐 Secure authentication and RESTful APIs
-🌱 Crop data management and prediction workflow integration
+* 🤖 AI-powered crop yield prediction platform
+* 📊 Interactive dashboards for yield forecasting and analytics
+* 🔐 Secure authentication and RESTful APIs
+* 🌱 Crop data management and prediction workflow integration
 
 Tech Stack: React.js, Vite, Tailwind CSS, Node.js, Express.js
 
