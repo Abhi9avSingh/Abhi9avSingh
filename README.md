@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abhinav Singh
+#  Hi, I'm Abhinav Singh
 
 ### 💻 Aspiring Software Developer | 🎓 Student
 
