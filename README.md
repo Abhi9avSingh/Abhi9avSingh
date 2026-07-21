@@ -87,7 +87,7 @@ Tech Stack: React.js, Vite, Tailwind CSS, Node.js, Express.js
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Abhi9avSingh\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Abhi9avSingh&theme=radical)
 
 ---
 
