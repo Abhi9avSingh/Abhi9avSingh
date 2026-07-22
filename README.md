@@ -79,12 +79,6 @@ Tech Stack: React.js, Vite, Tailwind CSS, Node.js, Express.js
 
 ---
 
-## 📊 GitHub Stats
-
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhi9avSingh&show_icons=true&theme=radical)
-
----
-
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Abhi9avSingh&theme=radical)
