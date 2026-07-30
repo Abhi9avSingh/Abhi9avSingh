@@ -68,22 +68,20 @@ Highlights
 * 🌱 Crop data management and prediction workflow integration
 
 Tech Stack: React.js, Vite, Tailwind CSS, Node.js, Express.js
-
-## 💡 Currently Learning
-* Node.js & Express.js
-* React Ecosystem
-* REST API Development
-* Cloud Computing (AWS)
-* AI & Machine Learning Integration
-* Data Structures & Algorithms (C++)
-
+ 
 ---
 
 ## 🔥 Streak Stats
  
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Abhi9avSingh&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Abhi9avSingh&theme=nightowl)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ---
+
+## 📊 GitHub Stats
+
+![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhi9avSingh&show_icons=true&theme=radical)
+
+ --
 
 ## 🌐 Connect with Me
 
