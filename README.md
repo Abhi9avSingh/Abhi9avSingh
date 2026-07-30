@@ -76,19 +76,21 @@ Tech Stack: React.js, Vite, Tailwind CSS, Node.js, Express.js
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Abhi9avSingh&theme=nightowl)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ---
+## 📈 Contribution Graph
+
+[![Abhinav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhi9avSingh&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
 ## 📊 GitHub Stats
 
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhi9avSingh&show_icons=true&theme=radical)
+![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhi9avSingh&show_icons=true&theme=dracula)
 
- --
+---
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/your-link)
 
 ---
-
-
  
 ⭐ *Thanks for visiting my profile!*
