@@ -38,37 +38,25 @@ I focus on understanding concepts deeply and applying them through real projects
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+## 📊 GitHub Stats
 
-## 📌 Projects Overview 
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi9avSingh&theme=github_dark"
+    width="100%"
+  />
+</p>
 
-I enjoy building full-stack web applications that solve practical problems while helping me learn modern development technologies. My projects focus on frontend development, backend APIs, cloud deployment, and integrating real-world data to create meaningful applications.
-
-☁️ Cloud-Based Weather Forecast Web Application
-
-A cloud-hosted weather application that provides real-time weather updates using the OpenWeather API. The project demonstrates cloud deployment concepts and API integration while delivering accurate weather information through a responsive web interface.
-
-Highlights
-
-* 🌦️ Real-time weather updates using OpenWeather API
-* ☁️ Cloud deployment on AWS (S3/EC2)
-* 📱 Responsive and user-friendly interface
-* 🔗 REST API integration for live weather data
-
-Tech Stack: HTML, CSS, JavaScript, OpenWeather API, AWS
-
-🌾 AI Crop Yield Prediction & Agricultural Productivity Forecasting System (YieldSense AI)
-
-An AI-powered agricultural platform designed to help farmers estimate crop yield using historical farming records, weather conditions, and soil data. The project includes a modern dashboard for agricultural analytics and a scalable Express.js backend that manages authentication, crop information, and prediction workflows.
-
-Highlights
-
-* 🤖 AI-powered crop yield prediction platform
-* 📊 Interactive dashboards for yield forecasting and analytics
-* 🔐 Secure authentication and RESTful APIs
-* 🌱 Crop data management and prediction workflow integration
-
-Tech Stack: React.js, Vite, Tailwind CSS, Node.js, Express.js
+<p align="center">
  
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhi9avSingh&theme=github_dark"
+    width="49%"
+  />
+ 
+ 
+ </p>
+
 ---
 
 ## 🔥 Streak Stats
@@ -80,17 +68,10 @@ Tech Stack: React.js, Vite, Tailwind CSS, Node.js, Express.js
 
 [![Abhinav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhi9avSingh&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
-
-## 📊 GitHub Stats
-
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhi9avSingh&show_icons=true&theme=dracula)
-
----
-
+ 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/your-link)
 
 ---
- 
 ⭐ *Thanks for visiting my profile!*
