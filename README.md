@@ -7,15 +7,6 @@ I focus on understanding concepts deeply and applying them through real projects
 
 ---
 
-## 🚀 About Me
-
-* 🌱 Currently learning **React & modern frontend development**
-* 🛠️ Building projects to improve practical skills
-* 🎯 Goal: Become a skilled software developer
-* ⚡ Learning by doing, not just watching
-
----
-
 ## 🧠 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge\&logo=html5)
