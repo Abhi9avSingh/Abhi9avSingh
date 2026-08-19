@@ -7,6 +7,7 @@ I focus on understanding concepts deeply and applying them through real projects
 
 ---
 
+
 ## 🧠 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge\&logo=html5)
