@@ -2,7 +2,7 @@
 
 ### 💻 Aspiring Software Developer | 🎓 Student
 
-🚀 I am currently learning and building projects in web development.
+🚀 I am currently learning DSA and building projects in web development.
 I focus on understanding concepts deeply and applying them through real projects.
 
 ---
